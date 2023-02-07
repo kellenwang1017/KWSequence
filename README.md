@@ -16,3 +16,5 @@ KWSequence is a tiny tool for drawing digital signal sequence timing diagrams us
 | \| | Time Cursor |
 
 When you open the html-based tool, a simple example is given as a good startpoint
+
+To use the tool online: https://kellenwang1017.github.io/KWSequence/KWSequence.html
